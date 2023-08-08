@@ -34,6 +34,7 @@
     "@types/conventional-recommended-bump": "^6.1.0",
     "@types/node": "^20.4.8",
     "@typescript-eslint/eslint-plugin": "^6.3.0",
+    "auto-changelog": "^2.4.0",
     "commitlint": "^17.6.7",
     "commitlint-config-gitmoji": "^2.3.1",
     "conventional-changelog-cli": "^3.0.0",
