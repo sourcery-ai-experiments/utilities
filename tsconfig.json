@@ -1,0 +1,21 @@
+{
+	"compileOnSave": true,
+	"compilerOptions": {
+		"module": "commonjs",
+    "declaration": true,
+    "strict": true,
+    "removeComments": false,
+    "noLib": false,
+    "emitDecoratorMetadata": true,
+    "esModuleInterop": true,
+    "experimentalDecorators": true,
+    "target": "ES2021",
+    "sourceMap": false,
+    "outDir": "./dist",
+    "rootDir": "./libs",
+    "skipLibCheck": true,
+    "useUnknownInCatchVariables": false
+	},
+	"include": ["libs/**/*"],
+  "exclude": ["node_modules", "**/*.spec.ts", "tests"]
+}
