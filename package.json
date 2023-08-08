@@ -1,6 +1,6 @@
 {
   "name": "@alikuxac/utilities",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Alikuxac Common util functions",
   "main": "dist/index.js",
   "scripts": {
