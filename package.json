@@ -37,7 +37,7 @@
     "auto-changelog": "^2.4.0",
     "commitlint": "^17.7.1",
     "commitlint-config-gitmoji": "^2.3.1",
-    "conventional-changelog-cli": "^3.0.0",
+    "conventional-changelog-cli": "^4.1.0",
     "conventional-recommended-bump": "^7.0.1",
     "cz-customizable": "^7.0.0",
     "eslint": "^8.49.0",
